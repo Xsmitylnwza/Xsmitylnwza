@@ -1,4 +1,4 @@
-Portfolio UWU: <a href="https://portfolio-xsmitylnwzas-projects.vercel.app/">Click me <3</a>
+Portfolio: <a href="https://portfolio-xsmitylnwzas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Click me <3</a>
 =======================================
 
 ### Skills
